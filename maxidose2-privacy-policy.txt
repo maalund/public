@@ -1,0 +1,5 @@
+The MaxiDose2 Android Application does not collect or store personal data.
+
+By installing the application from Google Play, you accept the privacy policy associated with your Google Play account.
+
+Please see the privacy policy for Google Play Services here: https://policies.google.com/privacy
